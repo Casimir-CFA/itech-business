@@ -1,0 +1,15 @@
+[
+    {
+      "name": "HP EliteBook 840 G3",
+      "price": "150 000 FCFA",
+      "description": "Core i5 • 8 Go RAM • 256 Go SSD",
+      "image": "images/hp-elitebook.jpg"
+    },
+    {
+      "name": "Dell Latitude E5470",
+      "price": "180 000 FCFA",
+      "description": "Core i7 • 16 Go RAM • 512 Go SSD",
+      "image": "images/dell-latitude.jpg"
+    }
+  ]
+  
